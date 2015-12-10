@@ -1,0 +1,19 @@
+p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 90%;
+	color: #000000;
+}
+h3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	font-weight: bold;
+	color: #8EBE18;
+}
+h4 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	font-weight: bolder;
+	color: #A5CA00;
+	font-variant: small-caps;
+	font-style: normal;
+}
